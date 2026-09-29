@@ -1,0 +1,22 @@
+# Datasets & Large Files
+*.csv
+*.parquet
+*.h5
+*.pkl
+*.zip
+*.tar.gz
+
+# IDE & OS configs
+.idea/
+.vscode/
+.DS_Store
+
+# Jupyter Checkpoints & Python Bytecode
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.env
+
+  .idea/
+  .ipynb_checkpoints/
+  __pycache__/
