@@ -1,4 +1,4 @@
-# MineThatData E-mail Analytics Dataset
+# Customer behavior analysis, campaign effectiveness, and data-driven decision-making
 
 This dataset, curated by Kevin Hillstrom, is a foundational resource for **Uplift Modeling**, **Causal Inference**, and **Customer Analytics**. It provides a clear view into a direct marketing campaign where a random subset of customers was targeted with different e-mail campaigns, making it ideal for testing treatment effects.
 
