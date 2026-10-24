@@ -8,20 +8,20 @@ The data tracks customer behavior after a specific e-mail marketing campaign. It
 
 ### Column Dictionary
 
-| Column Name | Description |
-| :--- | :--- |
-| `recency` | Months since the customer's last purchase. |
-| `history` | Total monetary value of purchases made by the customer in the past. |
-| `history_segment` | Customer categorization based on previous spending behavior (e.g., Low, Medium, High). |
-| `mens` | Binary indicator: Did the customer purchase men's merchandise in the past? |
-| `womens` | Binary indicator: Did the customer purchase women's merchandise in the past? |
-| `zip_code` | Categorical classification of the customer's residence area (Urban, Suburban, Rural). |
-| `newbie` | Binary indicator: Is the customer a "newbie" (new to the brand) or an existing customer? |
-| `channel` | The primary channel used for previous purchases (Web, Phone, Multichannel). |
+| Column Name | Description                                                                                    |
+| :--- |:-----------------------------------------------------------------------------------------------|
+| `recency` | Months since the customer's last purchase.                                                     |
+| `history` | Total monetary value of purchases made by the customer in the past.                            |
+| `history_segment` | Customer categorization based on previous spending behavior (e.g., Low, Medium, High).         |
+| `mens` | Did the customer purchase men's items in the past?                           |
+| `womens` | Did the customer purchase women's items in the past?                         |
+| `zip_code` | Categorical classification of the customer's residence area (Urban, Suburban, Rural).          |
+| `newbie` | Binary indicator: Is the customer a "newbie" (new to the brand) or an existing customer?       |
+| `channel` | The primary channel used for previous purchases (Web, Phone, Multichannel).                    |
 | `segment` | The specific campaign treatment the customer received (Mens E-mail, Womens E-mail, No E-mail). |
-| `visit` | Binary indicator: Did the customer visit the website after the campaign? |
-| `conversion` | Binary indicator: Did the customer make a purchase after the campaign? |
-| `spend` | The total amount spent by the customer after the campaign. |
+| `visit` | Binary indicator: Did the customer visit the website after the campaign?                       |
+| `conversion` | Binary indicator: Did the customer make a purchase after the campaign?                         |
+| `spend` | The total amount spent by the customer after the campaign.                                     |
 
 ---
 
